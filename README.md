@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shalin Dileesha</h1>
 <h3 align="center">Undergraduate - University of Moratuwa</h3>
 
-![GitHub Profile](https://gh-readme-profile.vercel.app/api?username=dileesha-shalin&theme=dark)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileesha-shalin&label=Profile%20views&color=0e75b6&style=flat" alt="dileesha-shalin" /> </p>
 
 - 🔭 I’m currently studying at **University of Moratuwa**
-
-- 🌱 I’m currently learning **REACT .NET JAVA**
 
 - 📝 I regularly write articles on [https://medium.com/@shalindileesha](https://medium.com/@shalindileesha)
 
