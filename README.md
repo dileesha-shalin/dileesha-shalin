@@ -2,35 +2,48 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;Code+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Trainee+Software+Engineer+%40+Arimac;Full+Stack+Developer;Microservices+Architect;Cloud+Enthusiast;Problem+Solver)
 
 </div>
 
 ## 🚀 About Me
 
-```javascript
-const softwareEngineer = {
-    name: "Your Name",
-    location: "Your City, Country",
-    code: ["JavaScript", "Python", "Java", "TypeScript", "Go"],
-    askMeAbout: ["web dev", "tech", "app dev", "system design"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Sass", "Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask", "FastAPI"],
-            databases: ["MongoDB", "PostgreSQL", "MySQL"]
-        },
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed 🤷‍♂️"
-};
+```java
+public class ShalinDileesha {
+    private String name = "Shalin Dileesha";
+    private String location = "Negombo, Sri Lanka";
+    private String currentRole = "Trainee Software Engineer @ Arimac";
+    private String education = "BSc. (Hons) in IT - University of Moratuwa (2021-2025)";
+    
+    private String[] languages = {"Java", "C#", "Python", "JavaScript", "TypeScript"};
+    private String[] frameworks = {"Spring Boot", "ASP.NET Core", "React", "Angular"};
+    private String[] databases = {"MySQL", "MSSQL", "PostgreSQL"};
+    private String[] cloudTech = {"AWS", "Azure", "Docker", "Terraform", "ECS Fargate"};
+    
+    private String currentFocus = "Building scalable microservices and cloud-native applications";
+    private String funFact = "Former U-16 National Champion in Discus & Shot Put! 🥇";
+    
+    public void sayHello() {
+        System.out.println("Thanks for visiting my profile! Let's build something amazing together!");
+    }
+}
 ```
+
+## 💼 Professional Experience
+
+### 🏢 **Trainee Software Engineer @ Arimac** *(Sep 2024 - Present)*
+**Projects:** SriLankan Airlines & Govimithuro (Dialog)
+- 🚀 Developed backend services for admin portals and mobile applications
+- 🤖 Integrated AI-powered chatbot for seamless user experience
+- 🐛 Fixed critical bugs improving system stability
+- 🔧 Implemented "Submit Feedback" module and dynamic deal updates
+- ✅ Enhanced code reliability through comprehensive unit testing
+
+### 🏢 **Trainee Software Engineer @ Datamation Systems** *(Jan 2024 - Jul 2024)*
+**Focus:** Enterprise Resource Planning (ERP) Systems
+- 🏗️ Contributed to comprehensive ERP system development
+- 🔄 Streamlined business operations and integrated departmental functions
+- 💼 Gained full-stack development experience across multiple modules
 
 ## 📈 GitHub Stats
 
@@ -45,65 +58,104 @@ const softwareEngineer = {
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Frontend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & DevOps
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 🏆 Featured Projects
 
-### 🌟 [Project Name 1](https://github.com/yourusername/project1)
-> Brief description of your most impressive project
-- **Tech Stack:** React, Node.js, PostgreSQL, AWS
-- **Features:** Real-time updates, user authentication, responsive design
-- ⭐ **Live Demo:** [project1-demo.com](https://your-demo-link.com)
+### 🏢 [Employee Management System with Microservices](https://github.com/yourusername/employee-management-microservices)
+> **Distributed microservices architecture with advanced patterns**
+- **Tech Stack:** Spring Boot, Microservices, API Gateway, Eureka Server, RabbitMQ, Zipkin
+- **Features:** Service discovery, circuit breaker patterns, distributed tracing
+- **Highlights:** Fault tolerance with Resilience4j, asynchronous messaging
+- ⭐ **Architecture:** Scalable microservices with complete observability
 
-### 🚀 [Project Name 2](https://github.com/yourusername/project2)
-> Another cool project that showcases your skills
-- **Tech Stack:** Python, Django, Docker, Redis
-- **Features:** API design, microservices, automated testing
-- ⭐ **Live Demo:** [project2-demo.com](https://your-demo-link.com)
+### 🤖 [AI-Driven Financial Goal Prioritization System](https://github.com/yourusername/ai-financial-goals)
+> **Level 4 Research Project - Machine Learning for Finance**
+- **Tech Stack:** Python, Scikit-learn, Streamlit, Pandas, NumPy
+- **Features:** Gradient Boosting Regressor, interactive web app, data visualization
+- **Dataset:** 500+ users with multiple financial categories
+- ⭐ **Innovation:** ML-powered financial planning with real-time insights
+
+### ☁️ [Cloud-Native Application Deployment](https://github.com/yourusername/cloud-native-deployment)
+> **Production-ready containerized application on AWS**
+- **Tech Stack:** AWS, Docker, Terraform, ECS Fargate, GitHub Actions
+- **Features:** Multi-stage builds, Infrastructure as Code, auto-scaling
+- **Services:** VPC, ALB, RDS, ECR, Secrets Manager, CloudWatch, ACM
+- ⭐ **DevOps:** Complete CI/CD pipeline with zero-downtime deployments
+
+### 🗺️ [Rule-Based Route Optimizer](https://github.com/yourusername/route-optimizer)
+> **Level 2 Industry Project - Smart Logistics Solution**
+- **Tech Stack:** Java Spring Boot, Spring Security, Angular, MySQL, GraphHopper API
+- **Features:** JWT authentication, capacity optimization, real-time visualization
+- **Algorithms:** Custom route optimization considering delivery priorities and constraints
+- ⭐ **Impact:** Improved delivery efficiency and cost-effectiveness
+
+## 🎓 Professional Certifications
+
+### 🏅 Current Certifications
+- **Java Developer Program** - Spring Boot Academy
+  - Spring Security, Microservices Architecture, Angular
+- **AWS Cloud Mastery Program (2025)**
+  - EC2, S3, RDS, VPC, IAM, Lambda, CloudFormation
+- **Code2Cloud Master Program (2025)**
+  - Docker, Terraform, ECS Fargate, CI/CD
 
 ## 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 30 mins  ███████████░░░░░░░░░░   45.2%
-Python       8 hrs 15 mins   ███████░░░░░░░░░░░░░░░   29.8%
-TypeScript   4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░   15.7%
-Docker       1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░    6.3%
-YAML         52 mins         █░░░░░░░░░░░░░░░░░░░░░    3.0%
+Java         15 hrs 45 mins  ████████████░░░░░░░░░░   52.3%
+Python       6 hrs 30 mins   █████░░░░░░░░░░░░░░░░░   21.6%
+JavaScript   4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░   14.4%
+Docker       2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░    7.5%
+YAML         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░    4.2%
 ```
 <!--END_SECTION:waka-->
 
-## 🎯 Current Goals for 2024
+## 🎯 Current Goals for 2025
 
-- [ ] Master system design patterns
-- [ ] Contribute to 5 open source projects
-- [ ] Learn Rust programming language
-- [ ] Build a SaaS product from scratch
-- [ ] Get AWS Solutions Architect certification
+- [x] Complete AWS Cloud Mastery Program
+- [x] Master microservices architecture patterns
+- [ ] Contribute to 5+ open source Spring Boot projects
+- [ ] Build a scalable SaaS platform from scratch
+- [ ] Get AWS Solutions Architect Professional certification
+- [ ] Mentor junior developers in Java/Spring ecosystem
+
+## 🏃‍♂️ Beyond Code - Athletic Achievements
+
+### 🥇 **National Championship Records**
+- **U-16 Discus Throwing Gold Medalist** - John Tarbet National Championship (2014) - **New Record!**
+- **U-16 Shot Put Gold Medalist** - John Tarbet National Championship (2014)
+- **U-15 Discus Throwing Gold Medalist** - All Island School Games (2013)
+
+*"The discipline and perseverance from sports translates perfectly into software engineering challenges!"*
+
+## 🎵 Creative Side
+
+- 🎹 **Church Keyboard Player** since 2009 (15+ years!)
+- 🎼 Active member of **Classical Music Society**
+- 👥 **Rotaract Club** member - Community service and leadership
 
 ## 📈 Activity Graph
 
@@ -121,10 +173,12 @@ YAML         52 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalin-dileesha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalindileesha@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+**📱 Contact:** +94 77 9867432 | +94 70 1656517
 
 </div>
 
@@ -133,10 +187,10 @@ YAML         52 mins         █░░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=brightgreen" alt="Profile Views" />
   
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
+  **"Clean code always looks like it was written by someone who cares." - Robert C. Martin**
 </div>
 
-<!-- Optional: Add some fun animations -->
+<!-- Fun snake animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
