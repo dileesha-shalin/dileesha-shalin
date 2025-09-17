@@ -45,17 +45,6 @@ public class ShalinDileesha {
 - 🔄 Streamlined business operations and integrated departmental functions
 - 💼 Gained full-stack development experience across multiple modules
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -120,28 +109,7 @@ public class ShalinDileesha {
   - EC2, S3, RDS, VPC, IAM, Lambda, CloudFormation
 - **Code2Cloud Master Program (2025)**
   - Docker, Terraform, ECS Fargate, CI/CD
-
-## 📊 This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-```text
-Java         15 hrs 45 mins  ████████████░░░░░░░░░░   52.3%
-Python       6 hrs 30 mins   █████░░░░░░░░░░░░░░░░░   21.6%
-JavaScript   4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░   14.4%
-Docker       2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░    7.5%
-YAML         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░    4.2%
-```
-<!--END_SECTION:waka-->
-
-## 🎯 Current Goals for 2025
-
-- [x] Complete AWS Cloud Mastery Program
-- [x] Master microservices architecture patterns
-- [ ] Contribute to 5+ open source Spring Boot projects
-- [ ] Build a scalable SaaS platform from scratch
-- [ ] Get AWS Solutions Architect Professional certification
-- [ ] Mentor junior developers in Java/Spring ecosystem
-
+  - 
 ## 🏃‍♂️ Beyond Code - Athletic Achievements
 
 ### 🥇 **National Championship Records**
@@ -156,18 +124,6 @@ YAML         1 hr 15 mins    █░░░░░░░░░░░░░░░░
 - 🎹 **Church Keyboard Player** since 2009 (15+ years!)
 - 🎼 Active member of **Classical Music Society**
 - 👥 **Rotaract Club** member - Community service and leadership
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
 
 ## 📫 Let's Connect
 
